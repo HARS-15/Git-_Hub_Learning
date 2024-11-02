@@ -1,3 +1,3 @@
 def double(p):
-  return 2*p
+  return p+p
 p=int(input())
